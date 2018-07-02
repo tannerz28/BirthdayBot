@@ -1,0 +1,19 @@
+{
+  "name": "BirthdayBot",
+  "version": "1.0.0",
+  "description": "Discord birthday bot to announce birthdays",
+  "main": "dist/index.js",
+  "repository": "https://github.com/tannerz28/BirthdayBot.git",
+  "author": "Tanner Goins <tannergz28@gmail.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^10.5.1",
+    "tslint": "^5.10.0",
+    "tslint-config-standard": "^7.1.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "discord.js-commando": "discordjs/Commando"
+  }
+}
